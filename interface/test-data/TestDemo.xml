@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<testDemo>
+		<username>test1</username>
+		<password>123456</password>
+		<inputValue>test</inputValue>
+	</testDemo>
+	<testDemo>
+		<username>test2</username>
+		<password>123456</password>
+		<inputValue>test</inputValue>
+	</testDemo>
+	<demoTest>
+		<username>test1</username>
+		<password>123456</password>
+		<inputValue>test</inputValue>
+	</demoTest>
+</data>

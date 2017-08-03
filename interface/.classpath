@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/wordspace/zf-httptest/lib/testng-6.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/wordspace/zf-httptest/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/Lib/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Lib/commons-collections4-4.1/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Lib/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Lib/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Lib/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="E:/Lib/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/wordspace/zf-httptest/lib/dom4j-1.6.1.jar" sourcepath="C:/Users/xujian/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/wordspace/zf-httptest/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

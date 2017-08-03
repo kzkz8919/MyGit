@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<common>
+		<url><![CDATA[http://ip.taobao.com/service/getIpInfo.php?ip=]]></url>
+	</common>
+	<testIP>
+		<ip>59.1.1.1</ip>
+		<country>韩国</country>
+	</testIP>
+	<testIP>
+		<ip>10.1.1.1</ip>
+		<country>未分配或者内网IP</country>
+	</testIP>
+</data>
